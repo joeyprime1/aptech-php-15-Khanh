@@ -1,0 +1,42 @@
+body{
+
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.avatar {
+    width: 20%;
+}
+
+.logo img {
+    width: 100%;
+    height: 200px;
+}
+
+.kk {
+    text-align: center;
+    width: 100%;
+}
+.theme {
+    padding: 10px ;
+    background-color:red;
+}
+
+ 
+.abc {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.universe {
+    display: flex;
+    justify-content: space-around;
+}
+
+.galaxy {
+    justify-content: space-around;
+}
